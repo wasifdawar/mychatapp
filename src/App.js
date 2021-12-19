@@ -1,10 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      My Chat app
+      <h1>My Chat app</h1>
     </div>
   );
 }
